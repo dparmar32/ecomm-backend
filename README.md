@@ -246,6 +246,9 @@ You are required to submit BOTH of the following for review:
 
 * The URL of the GitHub repository. Give the repository a unique name and include a readme describing the project.
 
+## References
+- [Sequelize](https://sequelize.org/master/)
+- [Associations](https://sequelize.org/v4/manual/tutorial/associations.html)
 ---
 © 2022 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
 
