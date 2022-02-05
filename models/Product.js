@@ -8,6 +8,13 @@ class Product extends Model {
 }
 
 // set up fields and rules for Product model
+/* The Product model is defined with the following columns:
+
+id: The primary key of the table.
+product_name: The name of the product.
+price: The price of the product.
+stock: The number of items in stock.
+category_id: The id of the category the product belongs to. */
 Product.init(
     {
         // define columns
